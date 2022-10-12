@@ -22,7 +22,7 @@ const Question = ({ questionss, serial }) => {
         position: "top-center",
       });
     } else {
-      toast("Inorrect!", {
+      toast("Incorrect!", {
         position: "top-center",
       });
     }
