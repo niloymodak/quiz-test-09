@@ -1,0 +1,19 @@
+.question{
+    width:50%;
+    margin:0 auto;
+}
+.option{
+    border:2px solid white;
+    padding:10px;
+    margin-bottom: 10px;;
+}
+.input-mod{
+    margin-right: 10px;
+}
+.eye{
+    cursor: pointer;
+    width:20px;
+}
+.eye:hover{
+    color:green;
+}
