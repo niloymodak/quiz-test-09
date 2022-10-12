@@ -31,7 +31,7 @@ const Header = () => {
             <div className='container banner mt-3'>
                 <img src={banner} className="w-100" alt="banner"></img>
                 <br />
-                <h4>Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.</h4>
+                <h4 className='title'>Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network).Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.</h4>
             </div>
         </div>
 

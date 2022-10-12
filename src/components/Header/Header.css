@@ -16,3 +16,9 @@
 .nav-item a {
     font-weight: 600;
 }
+
+.title {
+    background-color: bisque;
+    margin: 40px;
+    border-radius: 20px;
+}
