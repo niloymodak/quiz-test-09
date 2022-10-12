@@ -1,14 +1,18 @@
-.banner img{
-    height: 200px;
+.banner img {
+    height: 280px;
     object-fit: cover;
+    border-radius: 20px;
 }
-.navbar{
-    background-color: #67DBE6;
+
+.navbar {
+    background-color: cadetblue;
 }
-.navbar-brand{
+
+.navbar-brand {
     font-weight: 600;
     font-size: 30px;
 }
-.nav-item a{
+
+.nav-item a {
     font-weight: 600;
 }
