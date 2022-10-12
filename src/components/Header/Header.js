@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import banner from '../../banner1.jpg';
+import banner from '../../banner.jpg';
 import './Header.css';
 
 const Header = () => {
